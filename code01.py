@@ -1,5 +1,6 @@
-a = 1
-b = 2
-c = 3
-sum = a+b+c
+a = 17
+b = 27
+c = 37
+d = 47
+sum = a+b+c+d
 print "sum"
