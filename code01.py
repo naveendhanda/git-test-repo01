@@ -1,4 +1,5 @@
-name = naveen
-surname = dhanda
-full name = name+surname
-print "full name"
+a = 1
+b = 2
+c = 3
+sum = a+b+c
+print "sum"
